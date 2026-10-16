@@ -1,5 +1,8 @@
 # 📏 Height & Weight Predictor using Linear Regression
 
+## 🔗 Live Demo
+[Click here to try the app](https://height-weight-predictor-2.streamlit.app/)
+
 A simple Machine Learning project that predicts **Height** and **Weight** of children based on their **Age** using **Simple Linear Regression**.
 
 ## 📌 Features
