@@ -13,7 +13,7 @@ st.title("📏 Age se Height & Weight Predictor")
 st.write("Simple Linear Regression | Dataset: Kids198 (Age 8-18 years)")
 
 # Dataset load
-df = pd.read_csv("kids198.csv")
+df = pd.read_csv("Kids198.csv")
 
 # Age months → years
 df['Age_years'] = df['Age'] / 12                     # months ko year me convert kiya
